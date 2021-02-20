@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    color: #333;
+    color: rgb(253, 0, 0);
     font-family: "arial";
     margin : 0%  ; 
     padding: 0%;
@@ -40,4 +40,15 @@ body {
 }#cabecera h1 {
     font-size: 15px;
     margin-left: 10px;
+    color: white;
+}
+
+#cabecera span {
+
+    margin-left: 250px  ;
+    margin-bottom: 9px;
+    color : rgb(255, 255, 255)
+
+    
+
 }
