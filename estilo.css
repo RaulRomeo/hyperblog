@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    color: #333;
+    color: rgb(253, 0, 0);
     font-family: "arial";
     margin : 0%  ; 
     padding: 0%;
@@ -10,7 +10,7 @@ body {
 
 .conteiner {
 
- margin: 0 auto  ;
+    margin: 0 auto  ;
     width: 70%;
     padding:  0 0 1rem 0;
     text-align:center;
@@ -37,10 +37,21 @@ body {
     -webkit-box-shadow: -1px -1px 73px -6px rgba(57,45,214,1);
     -moz-box-shadow: -1px -1px 73px -6px rgba(57,45,214,1);
     box-shadow: -1px -1px 73px -6px rgba(57,45,214,1)
+
+
 }#cabecera h1 {
     font-size: 15px;
     margin-left: 10px;
+    color: white;
 }
-.post {
-    color : blue ; 
+
+
+#cabecera span {
+
+    margin-left: 250px  ;
+    margin-bottom: 9px;
+    color : rgb(255, 255, 255)
+
+    
+
 }
