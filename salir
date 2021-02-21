@@ -1,0 +1,105 @@
+[33mcommit b2919cee617bfc92f6cb3ada39ee57cd70015aca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mheader[m[33m)[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sun Feb 21 14:20:26 2021 -0700
+
+    cambios con en mi html con el meta :=)
+
+[33mcommit 238bf9bf2a862d0634a3b18cb886bfa7038b3770[m[33m ([m[1;31morigin/header[m[33m)[m
+Merge: cc46c89 d7feb82
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sun Feb 21 14:04:47 2021 -0700
+
+    cambios por la imagen en el la img dranfo
+
+[33mcommit d7feb824f8284546194783d198d17555b54664e5[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sun Feb 21 12:52:03 2021 -0700
+
+    cambios
+
+[33mcommit 4dbaa975b3de03679dfd72eb245cd212ef050665[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sun Feb 21 12:34:57 2021 -0700
+
+    actualizamos mi html y css al de fredy vega :)
+
+[33mcommit cc46c89a3c977452e08585526ea4cabf51fc2852[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sun Feb 21 09:17:15 2021 -0700
+
+    logo mejorado
+
+[33mcommit a095349d96d3a5b5e7557fb785b3beba71874160[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sat Feb 20 18:06:44 2021 -0700
+
+    logo del header
+
+[33mcommit 1e3f00c89bea43ae0bcaaa6e93fc7aa9ef6d993d[m[33m ([m[1;31morigin/footer[m[33m, [m[1;32mfooter[m[33m)[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sat Feb 20 13:49:47 2021 -0700
+
+    un version del el Hyperblog
+
+[33mcommit 2c20cb431942442a48cfdd8d8f39ba318d49d459[m
+Merge: aa9cdb3 09bb7c2
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sat Feb 20 08:57:09 2021 -0700
+
+    Merge branch 'master' of https://github.com/RaulRomeo/hyperblog
+
+[33mcommit 09bb7c2780937793fd4666f85e768d51a82e31c3[m
+Author: RaulRomeo <77982818+RaulRomeo@users.noreply.github.com>
+Date:   Sat Feb 20 03:45:00 2021 -0700
+
+    Initial commit
+
+[33mcommit aa9cdb34590f85e69316914a498a9787eb8389c2[m
+Merge: 659d338 2457536
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sat Feb 20 02:26:51 2021 -0700
+
+    Solucione el conflicto de las ramas de al fusionar
+
+[33mcommit 659d338d371e75c3f57390dc9edd1d786628a3c6[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sat Feb 20 02:16:57 2021 -0700
+
+    Agrege suscripcion , cambie la cabecera maestra y puse todo azul
+
+[33mcommit 2457536707e24f73bc3967d63f5a1c23c288d554[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Sat Feb 20 02:13:35 2021 -0700
+
+    Modificacion de la cabecera y el color de textpo
+
+[33mcommit 86373b5e6bf099c6e9208e09939b846acfebb7c9[m
+Merge: 0b48bde 0f81ea0
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Fri Feb 19 17:08:49 2021 -0700
+
+    Volv a una tipografia menos contraversial
+
+[33mcommit 0b48bde4708cf1e85ba004dc7c1645fbf2d1a6a2[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Fri Feb 19 16:58:56 2021 -0700
+
+    Agregado el contenido adicional del blog
+
+[33mcommit 0812b7f63c877b8d1ef6c9320b50dd5e9d87b513[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Fri Feb 19 17:26:49 2021 -0700
+
+    Comit al master de blgpost en su version mas reciente
+
+[33mcommit 0f81ea0eb9f32d2910b0e38ed6d28f59c3497dcb[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Fri Feb 19 16:56:10 2021 -0700
+
+    finalizada la cabecera con diseño azul
+
+[33mcommit 816bc4dee80f32e99469bf27cc8bfac4963ade33[m
+Author: RaulFernando <raul.2020fernan@gmail.com>
+Date:   Fri Feb 19 17:32:30 2021 -0700
+
+    estructuara inicial de la cabecera
